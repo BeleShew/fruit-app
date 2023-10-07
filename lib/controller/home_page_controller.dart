@@ -780,7 +780,7 @@ class HomePageController extends GetxController {
                       style: const TextStyle(
                         fontSize: 14,
                         fontFamily: 'Pretendard',
-                        color:Color(0xFFF5F5F5),
+                        color:Color(0xFFFF016B),
                         letterSpacing: -0.6,
                       ),
                     ),
